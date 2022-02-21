@@ -1,6 +1,11 @@
 # CARS4U
-Car rental application(Responsive web application)\
-Full stack application deployed at heroku.\
+
+#### This is a dummy branch for reference ,the actual branch that is deployed is in a private repository.
+
+### Car rental application(Responsive web application)
+#### Full stack application deployed at heroku.
+
+#### For reference to application please click to below link.
 https://cars-services-application.herokuapp.com/
 <br/>
 ## MERN stack application
@@ -26,3 +31,4 @@ https://cars-services-application.herokuapp.com/
 3.Used stripe to integrate payment initiation associated to booking a ride.\
 6.Can see all ride history associated to an user.\
 7.Login Regiter.
+
